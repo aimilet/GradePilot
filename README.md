@@ -33,7 +33,6 @@
 │       ├── match_submissions.py
 │       ├── update_roster_xlsx.py
 │       └── xlsx_roster.py
-└──
 ```
 
 ## 适用场景
