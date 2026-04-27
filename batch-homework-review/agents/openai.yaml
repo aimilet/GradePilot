@@ -1,0 +1,7 @@
+interface:
+  display_name: "作业自动审阅"
+  short_description: "先标准化学生名单，再并行审阅多种格式作业并回写结果"
+  default_prompt: "Use $batch-homework-review to review the submissions in the specified folder, score each student against the assignment prompt, and update the roster."
+
+policy:
+  allow_implicit_invocation: true
