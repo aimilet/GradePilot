@@ -33,7 +33,7 @@
 │       ├── match_submissions.py
 │       ├── update_roster_xlsx.py
 │       └── xlsx_roster.py
-└── test/
+└──
 ```
 
 ## 适用场景
@@ -229,12 +229,11 @@ _review_runs/20260427-153000/
 - 名单中若同名且无学号，回写时会提示歧义，不会静默写错
 - 图片化内容依赖 Codex 的 `view_image` 能力，不走本地 OCR 脚本
 
-## 测试样例
-
-仓库中的 [test](./test) 目录放了一组示例材料，包括：
-
-- 学生名单的 `.xlsx/.png/.pdf`
-- 若干学生作业的 `.pdf/.docx/.zip`
-- 题目材料的 `.pdf/.pptx`
-
-可以直接用来演练名单标准化、提交匹配和回写流程。
+## 致谢
+感谢**真诚、友善、团结、专业**的 Linuxdo 社区，让我学到那么多有关ai相关知识。
+<p>
+  <a href="https://linux.do">
+    <img src="https://img.shields.io/badge/LinuxDo-community-1f6feb" alt="LinuxDo">
+  </a>
+</p>
+- [LinuxDo](https://linux.do) 学 ai, 上 L 站!
