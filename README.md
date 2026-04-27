@@ -235,4 +235,3 @@ _review_runs/20260427-153000/
     <img src="https://img.shields.io/badge/LinuxDo-community-1f6feb" alt="LinuxDo">
   </a>
 </p>
-- [LinuxDo](https://linux.do) 学 ai, 上 L 站!
